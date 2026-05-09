@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Complete pandas basics and data analysis">
-      <change afterPath="$PROJECT_DIR$/datasets/used_cars.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/csv_analysis.py" afterDir="false" />
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Complete EDA and data cleaning for used cars dataset">
+      <change afterPath="$PROJECT_DIR$/week1/data_visualization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.csv_analysis.executor": "Run",
+    "Python.data_visualization.executor": "Run",
     "Python.homework1.executor": "Run",
     "Python.homework2.executor": "Run",
     "Python.numpy_basics.executor": "Run",
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778336237115</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Complete EDA and data cleaning for used cars dataset">
+      <option name="closed" value="true" />
+      <created>1778338807454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1778338807454</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +148,7 @@
     <MESSAGE value="Complete homework" />
     <MESSAGE value="Complete NumPy basics and boolean indexing" />
     <MESSAGE value="Complete pandas basics and data analysis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete pandas basics and data analysis" />
+    <MESSAGE value="Complete EDA and data cleaning for used cars dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete EDA and data cleaning for used cars dataset" />
   </component>
 </project>

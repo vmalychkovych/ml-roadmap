@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Train random forest classifier with high accuracy">
+      <change afterPath="$PROJECT_DIR$/week2/grid_search_classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,27 +48,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.classification_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.csv_analysis.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_visualization.executor&quot;: &quot;Run&quot;,
-    &quot;Python.feature_engineering.executor&quot;: &quot;Run&quot;,
-    &quot;Python.first_ml_model.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.homework2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.numpy_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pandas_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.python_basics.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_forest_model.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/ml-roadmap/datasets&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.classification_model.executor": "Run",
+    "Python.csv_analysis.executor": "Run",
+    "Python.data_visualization.executor": "Run",
+    "Python.feature_engineering.executor": "Run",
+    "Python.first_ml_model.executor": "Run",
+    "Python.grid_search_classifier.executor": "Run",
+    "Python.homework1.executor": "Run",
+    "Python.homework2.executor": "Run",
+    "Python.numpy_basics.executor": "Run",
+    "Python.pandas_basics.executor": "Run",
+    "Python.python_basics.executor": "Run",
+    "Python.random_forest_classifier.executor": "Run",
+    "Python.random_forest_model.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/ml-roadmap/datasets"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ml-roadmap\datasets" />
@@ -190,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778346792583</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Train random forest classifier with high accuracy">
+      <option name="closed" value="true" />
+      <created>1778350592624</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1778350592624</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,6 +230,7 @@
     <MESSAGE value="Train logistic regression classification model" />
     <MESSAGE value="Add feature engineering for car price prediction" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
+    <MESSAGE value="Train random forest classifier with high accuracy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Train random forest classifier with high accuracy" />
   </component>
 </project>

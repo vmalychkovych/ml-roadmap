@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Complete EDA and data cleaning for used cars dataset">
-      <change afterPath="$PROJECT_DIR$/week1/data_visualization.py" afterDir="false" />
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Complete data visualization and exploratory analysis">
+      <change afterPath="$PROJECT_DIR$/week2/first_ml_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +48,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.csv_analysis.executor": "Run",
     "Python.data_visualization.executor": "Run",
+    "Python.first_ml_model.executor": "Run",
     "Python.homework1.executor": "Run",
     "Python.homework2.executor": "Run",
     "Python.numpy_basics.executor": "Run",
@@ -128,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778338807454</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Complete data visualization and exploratory analysis">
+      <option name="closed" value="true" />
+      <created>1778339875796</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1778339875796</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +158,7 @@
     <MESSAGE value="Complete NumPy basics and boolean indexing" />
     <MESSAGE value="Complete pandas basics and data analysis" />
     <MESSAGE value="Complete EDA and data cleaning for used cars dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete EDA and data cleaning for used cars dataset" />
+    <MESSAGE value="Complete data visualization and exploratory analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete data visualization and exploratory analysis" />
   </component>
 </project>

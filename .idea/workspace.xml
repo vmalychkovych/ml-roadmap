@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Train random forest classifier with high accuracy">
-      <change afterPath="$PROJECT_DIR$/week2/grid_search_classifier.py" afterDir="false" />
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Tune random forest classifier with grid search">
+      <change afterPath="$PROJECT_DIR$/week2/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/save_model.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.api.executor": "Run",
     "Python.classification_model.executor": "Run",
     "Python.csv_analysis.executor": "Run",
     "Python.data_visualization.executor": "Run",
@@ -64,6 +66,7 @@
     "Python.python_basics.executor": "Run",
     "Python.random_forest_classifier.executor": "Run",
     "Python.random_forest_model.executor": "Run",
+    "Python.save_model.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -203,7 +206,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778350592624</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Tune random forest classifier with grid search">
+      <option name="closed" value="true" />
+      <created>1778351157311</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1778351157311</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +242,7 @@
     <MESSAGE value="Add feature engineering for car price prediction" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Train random forest classifier with high accuracy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Train random forest classifier with high accuracy" />
+    <MESSAGE value="Tune random forest classifier with grid search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tune random forest classifier with grid search" />
   </component>
 </project>

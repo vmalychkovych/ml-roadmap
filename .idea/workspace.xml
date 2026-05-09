@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Train random forest regressor for car price prediction" />
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Add feature engineering for car price prediction">
+      <change beforePath="$PROJECT_DIR$/week2/feature_engineering.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/feature_engineering.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,21 +22,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vmalychkovych"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vmalychkovych&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vmalychkovych/ml-roadmap.git",
-    "accountId": "e94f4eec-904e-4974-a9bc-8f60198cb3fd"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vmalychkovych/ml-roadmap.git&quot;,
+    &quot;accountId&quot;: &quot;e94f4eec-904e-4974-a9bc-8f60198cb3fd&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3DUKXxBgzKS7e9ceTVcFxxF13w3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +47,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.csv_analysis.executor": "Run",
     "Python.data_visualization.executor": "Run",
+    "Python.feature_engineering.executor": "Run",
     "Python.first_ml_model.executor": "Run",
     "Python.homework1.executor": "Run",
     "Python.homework2.executor": "Run",
@@ -151,7 +154,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778341419077</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add feature engineering for car price prediction">
+      <option name="closed" value="true" />
+      <created>1778346180565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1778346180565</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,6 +186,7 @@
     <MESSAGE value="Complete data visualization and exploratory analysis" />
     <MESSAGE value="Train first linear regression model" />
     <MESSAGE value="Train random forest regressor for car price prediction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Train random forest regressor for car price prediction" />
+    <MESSAGE value="Add feature engineering for car price prediction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add feature engineering for car price prediction" />
   </component>
 </project>

@@ -20,8 +20,6 @@ clean_cars = clean_cars.dropna()
 
 clean_cars["car_age"] = 2026 - clean_cars["manufacturing_year"]
 
-clean_cars["price_per_km"] = clean_cars["price(in lakhs)"] / clean_cars["kms_driven"]
-
 clean_cars["power_per_engine"] = clean_cars["max_power(bhp)"] / clean_cars["engine(cc)"]
 
 encoded_cars = pd.get_dummies(
@@ -36,7 +34,6 @@ features = [
     "engine(cc)",
     "max_power(bhp)",
     "car_age",
-    "price_per_km",
     "power_per_engine",
     "fuel_type_Diesel",
     "fuel_type_Petrol",

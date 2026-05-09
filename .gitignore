@@ -1,4 +1,7 @@
 .venv/
+.venv1/
+.venv_broken/
+.venv_tmp_broken/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/

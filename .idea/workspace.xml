@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Train first linear regression model">
-      <change afterPath="$PROJECT_DIR$/week2/random_forest_model.py" afterDir="false" />
-    </list>
+    <list default="true" id="7e16a171-3e8b-48d7-8553-dd4fcc78d76e" name="Changes" comment="Train random forest regressor for car price prediction" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778340419093</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Train random forest regressor for car price prediction">
+      <option name="closed" value="true" />
+      <created>1778341419076</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1778341419077</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +174,7 @@
     <MESSAGE value="Complete EDA and data cleaning for used cars dataset" />
     <MESSAGE value="Complete data visualization and exploratory analysis" />
     <MESSAGE value="Train first linear regression model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Train first linear regression model" />
+    <MESSAGE value="Train random forest regressor for car price prediction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Train random forest regressor for car price prediction" />
   </component>
 </project>
